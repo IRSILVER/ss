@@ -1,3 +1,3 @@
 _G.Key = "" -- Key changes every 24h 
--- to get the key join the discord : https://discord.gg/gT8stGXfcC
-loadstring(game:HttpGet("https://keychecking.000webhostapp.com/scrept.lua"))()
+-- to get key join https://www.discord.gg/gT8stGXfcC
+loadstring(game:HttpGet("https://raw.githubusercontent.com/TwomadJR/Blackiezo/main/whitelst"))()
